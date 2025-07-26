@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/trial1.dir/src/main.cpp.o -o trial1 

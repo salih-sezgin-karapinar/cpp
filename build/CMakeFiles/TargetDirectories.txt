@@ -1,0 +1,3 @@
+/home/sezginkarapinar/CPP_Project/cpp/build/CMakeFiles/trial1.dir
+/home/sezginkarapinar/CPP_Project/cpp/build/CMakeFiles/edit_cache.dir
+/home/sezginkarapinar/CPP_Project/cpp/build/CMakeFiles/rebuild_cache.dir
